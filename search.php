@@ -6,8 +6,6 @@ get_header(); ?>
 		<?php while (have_posts()) : the_post();
 			get_template_part( 'content' );
 		endwhile; ?>
-
-		<?php //blm_basic_paging_nav(); ?>
 		<?php else: ?>
 		<div class="content__area-noresults">
 			<p>Sorry, but nothing matched your search terms. Please try again with some different keywords.</p>

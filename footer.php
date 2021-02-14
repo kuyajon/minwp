@@ -6,13 +6,13 @@
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="footer-widget-container">
-			<div class="container">
-				<div class="row">
-				<div class="col c4"><?php dynamic_sidebar( 'bottom-left' ); ?></div>
-				<div class="col c4"><?php dynamic_sidebar( 'bottom-middle' ); ?></div>
-				<div class="col c4"><?php dynamic_sidebar( 'bottom-right' ); ?></div>
+			<div class="footer-widget-container">
+				<div class="container">
+					<div class="row">
+					<div class="col c4"><?php dynamic_sidebar( 'bottom-left' ); ?></div>
+					<div class="col c4"><?php dynamic_sidebar( 'bottom-middle' ); ?></div>
+					<div class="col c4"><?php dynamic_sidebar( 'bottom-right' ); ?></div>
+					</div>
 				</div>
 			</div>
 		</div>

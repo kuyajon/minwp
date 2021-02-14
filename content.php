@@ -10,7 +10,6 @@
 		<p>
 			<?php the_excerpt(); ?>
 		    <a class="more-link" href="<?php the_permalink() ?>">Read More &raquo;</a>
-		    <?php //minwp_entry_meta(); ?>
 		</p>
 	</div>
 </section>
